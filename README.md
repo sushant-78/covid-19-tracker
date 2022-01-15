@@ -13,6 +13,7 @@ Install and run covid-19 tracker with npm, by going into the application's folde
 ```
 
 ## Demo
+![covid-19-tracker](https://user-images.githubusercontent.com/30661399/149621125-2d7d3786-4fe1-468d-87b3-47c3d075103d.gif)
 
 https://portfolio-projects-repo-gifs-bucket.s3.ap-south-1.amazonaws.com/portfolio+repo+gifs/covid-19-tracker.gif
 
