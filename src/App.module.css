@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.loadingScreen {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadingScreen img {
+    width: 3rem;
+    height: 3rem;
+    display: inline-block;
+}
+
+.loadingText {
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 900px) {
+    .loadingText {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container {
+        width: 100%;
+        padding: 1rem;
+    }
+}

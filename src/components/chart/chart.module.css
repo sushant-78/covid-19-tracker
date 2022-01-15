@@ -1,0 +1,23 @@
+.container {
+    margin-bottom: 4rem;
+}
+
+.chartName {
+    font-size: 1.6rem !important;
+    text-align: center;
+    margin-bottom: 1rem !important;
+}
+
+.barChartContainer {
+    max-width: 1200px;
+}
+
+.lineChartContainer {
+    max-width: 1200px;
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        padding: 3rem;
+    }
+}
