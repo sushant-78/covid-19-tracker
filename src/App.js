@@ -51,6 +51,7 @@ export default class App extends Component {
                 if (currentCountry.Country.toLowerCase() === selectedCountry) {
                     return currentCountry;
                 }
+                return undefined;
             });
 
             if (!countryData) {
