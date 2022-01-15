@@ -3,6 +3,8 @@ COVID-19 TRACKER
 An application which tracks nationwise covid-19 data, made with react.js and https://covid19api.com/ api.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Website url- https://covid-19-tracker-react-sushant.netlify.app/
+
 ## Installation
 
 Install and run covid-19 tracker with npm, by going into the application's folder and using following command
